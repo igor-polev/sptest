@@ -1,0 +1,7 @@
+{
+    "COMMAND": "find / -type d -readable",
+    "seconds": 1,
+    "TIMES": 8,
+    "PARALLEL": "anything - value is ignored",
+    "COMMENT": "For sequential tests remember not to include PARALLEL key at all (see help)."
+}
